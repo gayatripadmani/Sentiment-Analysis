@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 Step 4: Run the app
 
-flask --app api.py run
+python app.py
 
 Step 5: The app will run on port 5000.
 
