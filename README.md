@@ -10,6 +10,7 @@ git clone https://github.com/gayatripadmani/Sentiment-Analysis.git
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
 
 conda create -n sentimentanalysis python=3.10
+
 conda activate sentimentanalysis
 
 Step 3: Install the requirements file
